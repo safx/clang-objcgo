@@ -760,7 +760,6 @@ def parse_root(node):
 #import <Cocoa/Cocoa.h>
 #import <objc/message.h>
 #import <objc/runtime.h>
-#import <MySample.h>
 
 // runtime
 const char* CCG_object_getClassName(void* px) {
